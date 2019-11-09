@@ -1,2 +1,2 @@
-# 61B-Notes
-Linda's Summary Notes for UC Berkeley's CS61B Course (Data Structures)
+# 61B Summaries
+Linda's Summaries for UC Berkeley's CS61B Course (Data Structures)
