@@ -2,6 +2,7 @@
 Linda's Summary Notes for Data Structures Course @ UC Berkeley (CS61B)
 
 Spring 2020
+
 Week 4: 
 - Abstract Classes vs Interfaces.pdf
 
